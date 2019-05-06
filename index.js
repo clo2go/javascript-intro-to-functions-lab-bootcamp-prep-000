@@ -8,3 +8,7 @@ function whisper(string) {
   console.log(string.toLowerCase())
   return string.toLowerCase()
 }
+
+
+console.log(shout("hello"))
+console.log(whisper("HEEEEYY!"))
