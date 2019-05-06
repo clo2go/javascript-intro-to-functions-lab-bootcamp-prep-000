@@ -3,5 +3,6 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-shout("yo")
-console.log("helle")
+function whisper(string) {
+  return string.toLowerCase()
+}
