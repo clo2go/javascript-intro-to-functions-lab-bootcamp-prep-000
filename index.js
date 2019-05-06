@@ -5,3 +5,4 @@ function shout(string) {
 }
 
 shout("yo")
+console.log("helle")
