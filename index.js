@@ -28,4 +28,4 @@ function sayHiToGrandma(string) {
 
 console.log(sayHiToGrandma("helllo"))
 console.log(sayHiToGrandma("HELLO"))
-console.(sayHiToGrandma("I love you, Grandma."))
+console.log(sayHiToGrandma("I love you, Grandma."))
